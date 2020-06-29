@@ -1,0 +1,201 @@
+/*
+html{
+    background : #fff;
+}
+*/
+body{
+    margin : 0;
+}
+header{
+    width : 100%;
+    min-height : 50px;
+    float : left;
+    background : #171717;
+    color : #e3e3e3;
+}
+header nav{
+	text-align:center;
+    margin-right : 20px;
+}
+
+header nav ul li{
+    display : inline;
+	margin : 10px 10px;
+}
+
+
+header nav ul li a{
+    text-decoration : none;
+    color : #e3e3e3;
+}
+
+
+header nav ul li a:hover{
+    color : #fff;
+    cursor : pointer;
+}
+
+main{
+    float : left;
+    width : 100%;
+    margin-top : 50px;
+}
+
+#jeu img {
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+	-webkit-user-drag: none;
+	-khtml-user-drag: none;
+	-moz-user-drag: none;
+	-o-user-drag: none;
+	user-drag: none;
+}
+
+table.cartes{
+    margin-left : auto;
+    margin-right : auto;
+}
+
+table.cartes tbody tr td img{
+    border : 5px solid #fff;
+    width : 100px;
+    height : 140px;
+    margin : 5px;
+    cursor : pointer;
+    box-shadow : 1px 1px 12px #555;
+	transition: all .3s ease-in-out;
+}
+
+table.cartes tbody tr td img:hover{
+    transform: scale(1.1);
+}
+
+.resultat{
+    margin-top : 50px;
+    box-shadow : 1px 1px 12px #555;
+    border : 5px solid #fff;
+    width : 50%;
+    margin-right : auto;
+    margin-left : auto;
+    text-align : center;
+    padding : 30px 10px 30px 10px;
+    display : none;
+}
+
+.resultat p{
+    margin-top : 5px;
+    margin-bottom  : 5px;
+}
+
+.resultat p button{
+    padding : 10px;
+    border-radius : 2px;
+    border : 1px solid #e0dede;
+    cursor : pointer;
+    width : 150px;
+    color : #747373;
+}
+
+
+
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+button {
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+.nameInput {
+	border-radius: 5px;
+	background-color: #f2f2f2;
+	margin-top : 50px;
+    box-shadow : 1px 1px 12px #555;
+    width : 50%;
+    margin-right : auto;
+    margin-left : auto;
+    text-align : center;
+    padding : 30px 10px 30px 10px;
+    display : none;
+}
+
+.leaderboard{
+	border-radius: 5px;
+	background-color: #f2f2f2;
+	max-width: 300px;
+    box-shadow : 1px 1px 12px #555;
+	margin-right : auto;
+    margin-left : auto;
+	padding-bottom : 1px;
+}
+
+.leaderboard .label{
+	background-color: hsl(45,0%,50%);
+	border-radius: 5px 5px 0px 0px;
+	padding : 15px;
+	
+}
+
+
+.leaderboard .label h1{
+  display: inline;
+  color : #e5e5e5;
+}
+.leaderboard .label img{
+  float: left;
+  padding-left : 10px;
+  padding-right : 10px;
+}
+
+.leaderboard .rank li{
+	padding : 10px 20px 10px 0px;
+}
+
+.leaderboard .rank li span{
+	float : right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
