@@ -6,7 +6,7 @@ A game that will improve your memory and brain power.
 You must memorize a board with several pairs of disordered images.
 
 ### Play Online :
-[![Demo](Capture.png)](http://thavarasa.name/game)
+[Link : thavarasa.name/game](http://thavarasa.name/game)
 
 ### Screenshots
 ![](Capture.png)
