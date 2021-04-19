@@ -9,5 +9,4 @@ You must memorize a board with several pairs of disordered images.
 [Link : https://pthavarasa.github.io/Metal-Slug-Jump/](https://pthavarasa.github.io/Metal-Slug-Jump/)
 
 ### Screenshots
-![](Capture.png)
-![](Capture1.png)
+![](metalslug.png)
