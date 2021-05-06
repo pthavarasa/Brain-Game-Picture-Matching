@@ -6,7 +6,7 @@ A game that will improve your memory and brain power.
 You must memorize a board with several pairs of disordered images.
 
 ### Play Online :
-[Link : https://pthavarasa.github.io/Metal-Slug-Jump/](https://pthavarasa.github.io/Metal-Slug-Jump/)
+[Link : https://pthavarasa.github.io/Brain-Game-Picture-Matching/](https://pthavarasa.github.io/Brain-Game-Picture-Matching/)
 
 ### Screenshots
 ![](Capture.png)
